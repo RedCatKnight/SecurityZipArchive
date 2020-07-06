@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "ZipArchive"
+  s.name         = "securityZipArchive"
   s.version      = "1.4.0"
   s.summary      = "An Objective C class for zip/unzip on iPhone and Mac OS X."
   s.description  = <<-DESC
